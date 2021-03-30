@@ -3,6 +3,8 @@ package com.cristhian.arce.pattern.adapter.dto;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.cristhian.arce.pattern.adapter.EmployeeAdapaterLdap;
+import com.cristhian.arce.pattern.adapter.EmployeeAdapterCSV;
 import com.cristhian.arce.pattern.adapter.contracts.Employee;
 import com.cristhian.arce.pattern.adapter.dao.EmployeeCSV;
 import com.cristhian.arce.pattern.adapter.dao.EmployeeDB;

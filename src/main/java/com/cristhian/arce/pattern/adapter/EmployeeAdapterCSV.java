@@ -1,4 +1,4 @@
-package com.cristhian.arce.pattern.adapter.dto;
+package com.cristhian.arce.pattern.adapter;
 
 import com.cristhian.arce.pattern.adapter.contracts.Employee;
 import com.cristhian.arce.pattern.adapter.dao.EmployeeCSV;
